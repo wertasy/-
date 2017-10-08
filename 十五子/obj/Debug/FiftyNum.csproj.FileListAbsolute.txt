@@ -1,0 +1,15 @@
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\obj\Debug\FiftyNum.Form1.resources
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\obj\Debug\FiftyNum.csproj.GenerateResource.Cache
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\obj\Debug\FiftyNum.csprojResolveAssemblyReference.cache
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\bin\Debug\十五子.exe.config
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\bin\Debug\十五子.exe
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\bin\Debug\十五子.pdb
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\obj\Debug\十五子.Properties.Resources.resources
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\obj\Debug\十五子.exe
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\obj\Debug\十五子.pdb
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\十五子\bin\Debug\十五子.exe.config
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\十五子\obj\Debug\十五子.exe
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\十五子\obj\Debug\十五子.pdb
+C:\Users\王灿辉\Desktop\C#\Projects\十五子\十五子\bin\Debug\十五子.exe.config
+C:\Users\王灿辉\Desktop\C#\Projects\十五子\十五子\obj\Debug\十五子.exe
+C:\Users\王灿辉\Desktop\C#\Projects\十五子\十五子\obj\Debug\十五子.pdb

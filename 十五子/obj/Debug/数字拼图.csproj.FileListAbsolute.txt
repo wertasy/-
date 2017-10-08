@@ -1,0 +1,9 @@
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\bin\Debug\数字拼图.exe.config
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\bin\Debug\数字拼图.exe
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\bin\Debug\数字拼图.pdb
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\obj\Debug\数字拼图.csprojResolveAssemblyReference.cache
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\obj\Debug\数字拼图.Form1.resources
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\obj\Debug\数字拼图.Properties.Resources.resources
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\obj\Debug\数字拼图.csproj.GenerateResource.Cache
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\obj\Debug\数字拼图.exe
+C:\Users\王灿辉\Desktop\C#\Projects\数字拼图\数字拼图\obj\Debug\数字拼图.pdb
